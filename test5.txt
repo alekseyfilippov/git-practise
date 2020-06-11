@@ -6,6 +6,6 @@ add new feature
 
 ##############
 
-add some more features for business
+add some more features for business users
 
 ######################
